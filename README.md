@@ -9,7 +9,7 @@ example command -
 ```./http_server 20038```
 (Try different port if server fails to bind)
 
-## Brower Client-
+## Browser Client-
 From the broswer,
 
 enter url - **http://burrow.soic.indiana.edu:20038/HelloWorld.html **
